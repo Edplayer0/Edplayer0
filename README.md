@@ -8,7 +8,7 @@
 
 👯 I'm eager to collaborate with anyone who wants to learn and grow together!
 
-📫 How to reach me: [Edgar](mailto:edgarayuso@proton.me)
+📫 How to reach me: [Edgar Ayuso Martínez](mailto:edgarayusodev@proton.me)
 <!--
 **Edplayer0/Edplayer0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
