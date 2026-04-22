@@ -8,7 +8,11 @@
 
 👯 I'm eager to collaborate with anyone who wants to learn and grow together!
 
+⚡ For more information feel free to visit my personal page: https://edplayer0.github.io
+
+
 📫 How to reach me: [Edgar Ayuso Martínez](mailto:edgarayusodev@proton.me)
+
 <!--
 **Edplayer0/Edplayer0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
